@@ -44,3 +44,8 @@ Job Junction is a comprehensive Job Portal web application developed in core PHP
 * **Username:** admin
 * **Password:** admin
 *(Ensure you update the password hashes in `tblusers` for production use)*
+
+## Contact
+**Sunny Kumar**
+* **LinkedIn:** [sunny-kumar-b1487b33b](https://www.linkedin.com/in/sunny-kumar-b1487b33b/)
+* **Email:** [sunnykushwaha625@gmail.com](mailto:sunnykushwaha625@gmail.com)
